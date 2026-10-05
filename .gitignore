@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# SQLite database (generated at runtime, not source)
+car_rental.db
+
+# OS / editor noise
+.DS_Store
+.vscode/
+.idea/
